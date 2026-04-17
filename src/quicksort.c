@@ -1,4 +1,4 @@
-#include "main.h"
+#include "../include/main.h"
 
 //function for sorting voters by their lastname or firstname or ID's
 int compareVoters(const void* a, const void* b) {

@@ -74,7 +74,7 @@ The project includes a [`Makefile`](Makefile).
 
 or manually:
 
-```./main -i voters50.bin -k 4 -e1 sorting1 -e2 sorting2```
+```./build/main -i ./voterfiles/voters50.bin -k 4 -e1 ./build/sorting1 -e2 ./build/sorting2```
 
 #### Parameters 
 

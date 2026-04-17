@@ -60,6 +60,14 @@ The system:
   - execution time per sorter
   - number of signals received (USR1 / USR2)
 
+## Project Structure
+
+- `src/` – source files (`.c`)
+- `include/` – header files (`.h`)
+- `voterfiles/` – input binary files used for testing
+- `build/` – compiled executables
+- `Makefile` – build and execution targets
+
 ## Usage
 
 The project includes a [`Makefile`](Makefile).

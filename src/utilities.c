@@ -1,4 +1,4 @@
-#include "main.h"
+#include "../include/main.h"
 
 
 void getFlags(int argc, char* argv[], int* k, const char** filename, const char** sorting1, const char** sorting2)

@@ -1,6 +1,4 @@
-#include "main.h"
-
-
+#include "../include/main.h"
 
 
 void openPipesForRead(SorterChild* sorters, int size)
